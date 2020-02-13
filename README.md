@@ -6,4 +6,4 @@ This is an example of using yadage to import/export files.
 - yadage (`pip install yadage`)
 
 # Demonstration
-- `bash $ ./.run.sh`
+- `bash $ ./run.sh`
